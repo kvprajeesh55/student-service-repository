@@ -34,7 +34,7 @@ public class StudentController {
 
     @GetMapping("/v1/welcome")
     public String welcomeStudent() {
-        String result = "Hello welcome to student service V1";
+        String result = "Hello welcome to student service V1 new edited.......................";
         return result;
     }
 
